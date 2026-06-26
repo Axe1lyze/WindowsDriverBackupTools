@@ -5,8 +5,8 @@ Please run each batch file with **administrator privileges**.
 
 | Batch File | Description |
 | :--- | :--- |
-| `export_drivers.bat` | Navigates to the directory where the batch file is located and exports all installed drivers to the `exportet_drivers` folder. |
-| `import_drivers.bat` | Navigates to the directory where the batch file is located and installs all drivers from the `exportet_drivers` folder within that directory. |
+| `export_drivers.bat` | Navigates to the directory where the batch file is located and exports all installed drivers to the `exported_drivers` folder. |
+| `import_drivers.bat` | Navigates to the directory where the batch file is located and installs all drivers from the `exported_drivers` folder within that directory. |
 
 ---
 
@@ -15,5 +15,5 @@ Please run each batch file with **administrator privileges**.
 
 | バッチファイル名 | 説明 |
 | :--- | :--- |
-| `export_drivers.bat` | バッチファイルが配置されているディレクトリへ移動し、インストール済みのドライバを一括で `exportet_drivers` フォルダへエクスポートします。 |
-| `import_drivers.bat` | バッチファイルが配置されているディレクトリへ移動し、同ディレクトリ内の `exportet_drivers` フォルダに格納されているドライバを一括でインストールします。 |
+| `export_drivers.bat` | バッチファイルが配置されているディレクトリへ移動し、インストール済みのドライバを一括で `exported_drivers` フォルダへエクスポートします。 |
+| `import_drivers.bat` | バッチファイルが配置されているディレクトリへ移動し、同ディレクトリ内の `exported_drivers` フォルダに格納されているドライバを一括でインストールします。 |
